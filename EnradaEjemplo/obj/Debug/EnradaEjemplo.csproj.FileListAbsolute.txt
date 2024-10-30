@@ -1,0 +1,14 @@
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\bin\Debug\EnradaEjemplo.exe.config
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\bin\Debug\EnradaEjemplo.exe
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\bin\Debug\EnradaEjemplo.pdb
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\bin\Debug\MetroFramework.Design.dll
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\bin\Debug\MetroFramework.dll
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.Form1.resources
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.Properties.Resources.resources
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.csproj.GenerateResource.cache
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEj.E238DCC0.Up2Date
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.exe
+C:\Users\etaln\Documents\Programacion\c#\EnradaEjemplo\EnradaEjemplo\obj\Debug\EnradaEjemplo.pdb
